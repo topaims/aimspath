@@ -1,7 +1,9 @@
 # AimsPath: Streamlining Knowledge Discovery
 
 ## Overview
-AimsPath is a powerful research tool designed to aggregate, process, and summarize information from YouTube videos. Built on top of the [YouTube Transcript API](https://github.com/jdepoix/youtube-transcript-api), AimsPath enables seamless extraction of transcripts, making it easy to classify, analyze, and store valuable insights for future use.
+AimsPath is a powerful research tool designed to aggregate, process, and summarize information from the web, including youtube videos, PDFs and websites.
+
+The initial version supports Youtube video transcript ingestion and is built on top of the [YouTube Transcript API](https://github.com/jdepoix/youtube-transcript-api), AimsPath enables seamless extraction of transcripts, making it easy to classify, analyze, and store valuable insights for future use.
 
 With AimsPath, researchers, students, and content creators can save time by quickly turning video content into searchable and actionable knowledge.
 
