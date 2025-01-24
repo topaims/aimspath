@@ -62,24 +62,6 @@ cd aimspath
  Maintenance of this project is made possible by all the <a href="https://github.com/jdepoix/youtube-transcript-api/graphs/contributors">contributors</a> and <a href="https://github.com/sponsors/jdepoix">sponsors</a>. 
 </p>
 
-<p align="center">
-  <a href="https://www.searchapi.io">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://www.searchapi.io/press/v1/svg/searchapi_logo_white_h.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://www.searchapi.io/press/v1/svg/searchapi_logo_black_h.svg">
-      <img alt="SearchAPI" src="https://www.searchapi.io/press/v1/svg/searchapi_logo_black_h.svg" height="40px" style="vertical-align: middle;">
-    </picture>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://supadata.ai">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://supadata.ai/logo-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://supadata.ai/logo-light.svg">
-      <img alt="supadata" src="https://supadata.ai/logo-light.svg" height="40px">
-    </picture>
-  </a>
-</p>
-
 ## Install
 
 It is recommended to [install this module by using pip](https://pypi.org/project/youtube-transcript-api/):
