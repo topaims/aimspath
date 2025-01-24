@@ -27,6 +27,7 @@ With AimsPath, researchers, students, and content creators can save time by quic
 ```bash
 git clone https://github.com/topaims/aimspath.git
 cd aimspath
+```
 
 ## YouTube Transcript API
 <h1 align="center">
